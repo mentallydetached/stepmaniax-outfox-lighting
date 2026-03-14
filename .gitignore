@@ -1,0 +1,11 @@
+# Visual Studio / C++ Compiler output
+*.obj
+*.exp
+*.lib
+
+# Ignore the compiled plugin (this goes in your GitHub Release zip, not the source code)
+pacdrive64.dll
+
+# Ignore log files
+*.log
+smx_plugin_debug.log
