@@ -14,7 +14,7 @@ If you have an SMX stage and play OutFox, feel free to use it.
 
 ### Installation
 
-*Note: This was built for the 64-bit version of Project OutFox.*
+*Note: This plugin is strictly for **Windows 64-bit**. It relies on the Windows-native SMX SDK and will not work on Linux or macOS versions of OutFox.*
 
 1. Download the latest `SMX-OutFox-Lighting.zip` from the **Releases** tab.
 2. Extract the two files (`pacdrive64.dll` and `SMX.dll`).

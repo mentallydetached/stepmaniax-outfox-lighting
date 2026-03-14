@@ -3,6 +3,9 @@
 *.exp
 *.lib
 
+# EXCEPTION: Always track the official SMX library
+!sdk/SMX.lib
+
 # Ignore the compiled plugin (this goes in your GitHub Release zip, not the source code)
 pacdrive64.dll
 
